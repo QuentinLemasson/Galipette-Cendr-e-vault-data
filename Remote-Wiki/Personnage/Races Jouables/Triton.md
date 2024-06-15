@@ -1,0 +1,2 @@
+- Peau Rugeuse : un fumble sur un jet d'attaque avec arme naturelles contre ce personnage provoque saignement 1 pour l'attaquant
+- 
