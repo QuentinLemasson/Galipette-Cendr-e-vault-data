@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote-Wiki/Domaines_Magiques/Ecole de l'Animal.md",
+                "file": "Remote-Wiki/Le Jeu/Jets.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remote-Wiki/Domaines_Magiques/Ecole de l'Animal.md",
+                "file": "Remote-Wiki/Le Jeu/Jets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remote-Wiki/Domaines_Magiques/Ecole de l'Animal.md",
+                "file": "Remote-Wiki/Le Jeu/Jets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remote-Wiki/Domaines_Magiques/Ecole de l'Animal.md"
+                "file": "Remote-Wiki/Le Jeu/Jets.md"
               }
             }
           }
@@ -176,6 +176,9 @@
   },
   "active": "863b3e7437c8ad29",
   "lastOpenFiles": [
+    "Remote-Wiki/Domaines_Magiques/Ecole de l'Animal.md",
+    "Remote-Wiki/Le Jeu/Jets.md",
+    "Remote-Wiki/Le Jeu/Initiative.md",
     "Remote-Wiki/Domaines_Magiques/Ecole de l'Esprit.md",
     "Remote-Wiki/Domaines_Magiques/Ecole de l'Ombre.md",
     "Remote-Wiki/Domaines_Magiques/Ecole de la Conjuration.md",
@@ -199,9 +202,6 @@
     "Remote-Wiki/Domaines_Techniques/Traqueur.md",
     "Remote-Wiki/Accueil.md",
     "Remote-Wiki/Compétences de l'ancienne Galipette.md",
-    "Remote-Wiki/Guilde.md",
-    "Remote-Wiki/home.md",
-    "Templates/Domain_Ability_List.md",
     "Sans titre",
     "Templates",
     "Remote-Wiki/Aspects",
