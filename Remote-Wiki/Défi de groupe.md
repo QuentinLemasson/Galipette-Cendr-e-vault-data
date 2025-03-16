@@ -1,0 +1,1 @@
+Les défis de groupe permettent de gérer cinématiquement et rapidement une [[Scène|scène]], avec simplement quelques [[Test|tests]].

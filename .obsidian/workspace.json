@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc879f8d4559dbb",
+        "id": "0b226a79dd5b0afd",
         "type": "tabs",
         "children": [
           {
-            "id": "863b3e7437c8ad29",
+            "id": "5c046ab35c4147ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Templates/Ability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0b7997c0f60e569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remote-Wiki/Compétences/Compagnon Animal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f47e4d51c8a531d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Ability.md",
-                "mode": "source",
-                "source": false
-              }
+                "staged": false,
+                "file": "Personnage/Sauvegardes.md"
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Sauvegardes)"
             }
           }
         ]
@@ -62,8 +39,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -78,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -86,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -109,15 +93,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Ability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
             }
           },
           {
@@ -126,10 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Ability.md",
+                "file": "Remote-Wiki/Compétences/Enduit Elémentaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Enduit Elémentaire"
             }
           },
           {
@@ -140,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -149,8 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Ability.md"
-              }
+                "file": "Remote-Wiki/Compétences/Enduit Elémentaire.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Enduit Elémentaire"
             }
           }
         ]
@@ -173,35 +164,47 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "863b3e7437c8ad29",
+  "active": "168182b9ba474527",
   "lastOpenFiles": [
-    "Templates/Domain_Ability_List.md",
+    "Remote-Wiki/Personnage/Sauvegardes.md",
     "Remote-Wiki/Personnage/Attributs.md",
+    "Remote-Wiki/Jeu/Interactions sociales.md",
     "Remote-Wiki/Jeu/Jets.md",
-    "Remote-Wiki/Domaines_Magiques/Ecole de l'Animal.md",
-    "Remote-Wiki/Le Jeu/Initiative.md",
-    "Remote-Wiki/Domaines_Magiques/Ecole de l'Esprit.md",
-    "Remote-Wiki/Domaines_Magiques/Ecole de l'Ombre.md",
-    "Remote-Wiki/Domaines_Magiques/Ecole de la Conjuration.md",
-    "Remote-Wiki/Domaines_Magiques/Ecole de la Lumière.md",
-    "Remote-Wiki/Domaines_Magiques/Ecole de la Nature.md",
-    "Remote-Wiki/Domaines_Magiques/Ecole des Eléments.md",
-    "Remote-Wiki/Domaines_Magiques/Ecole du Linceul.md",
-    "Remote-Wiki/Domaines_Magiques/Ecole Fondamentale.md",
-    "Remote-Wiki/Domaines_Martiaux/Armes de contact.md",
-    "Remote-Wiki/Domaines_Martiaux/Armes de tir.md",
-    "Remote-Wiki/Domaines_Martiaux/Arts Martiaux.md",
-    "Remote-Wiki/Domaines_Techniques/Alchimie.md",
-    "Remote-Wiki/Domaines_Techniques/Culte.md",
-    "Remote-Wiki/Domaines_Techniques/Dressage.md",
-    "Remote-Wiki/Domaines_Techniques/Enchantement.md",
-    "Remote-Wiki/Domaines_Techniques/Forge.md",
-    "Remote-Wiki/Domaines_Techniques/Ingénierie.md",
-    "Remote-Wiki/Domaines_Techniques/Médecine.md",
-    "Remote-Wiki/Domaines_Techniques/Performance.md",
-    "Remote-Wiki/Domaines_Techniques/Tactique.md",
-    "Remote-Wiki/Domaines_Techniques/Traqueur.md",
-    "Sans titre",
+    "Remote-Wiki/Jeu/Exploration.md",
+    "Remote-Wiki/Jeu/Actions/index.md",
+    "Remote-Wiki/Jeu/Actions/embusquer.md",
+    "Remote-Wiki/Jeu/Actions/charger.md",
+    "Remote-Wiki/Jeu/Listes actions.md",
+    "Remote-Wiki/Jeu/Magie.md",
+    "Remote-Wiki/Jeu/Activités.md",
+    "Remote-Wiki/attachments/clone-or-download-github.png",
+    "Remote-Wiki/attachments/clone-repo-git-plugin.png",
+    "Remote-Wiki/attachments/publish-dir-yml.png",
+    "Remote-Wiki/attachments/vercel-account-id.png",
+    "Remote-Wiki/attachments/fork-linked-blog-starter-md.png",
+    "Remote-Wiki/attachments/vercel-project-id.png",
+    "Remote-Wiki/attachments/create-pat-github.png",
+    "Remote-Wiki/attachments/configure-project-vercel.png",
+    "Remote-Wiki/Aspects/Aspects Bestiaux.md",
+    "Remote-Wiki/Aspects/Aspects Insectoïdes.md",
+    "Sans titre.md",
+    "Sans titre 1.canvas",
+    "Sans titre.canvas",
+    "2025-03-16.md",
+    "Body Fight mais en mieux.md",
+    "Templates/Domain_Ability_List.md",
+    "Remote-Wiki/Compétences/index.md",
+    "Remote-Wiki/Personnage/Créer un personnage.md",
+    "Remote-Wiki/Accueil.md",
+    "Remote-Wiki/Jeu/Jets/Test.md",
+    "Remote-Wiki/Personnage/Domaines.md",
+    "Remote-Wiki/Aspects/Aspects Aviaires.md",
+    "Remote-Wiki/Jeu/Jets/Modificateurs.md",
+    "Environnement Naturel.md",
+    "Remote-Wiki/Personnage/Races Jouables/Bestial.md",
+    "Remote-Wiki/Altérations",
+    "Remote-Wiki/Jeu/Jets",
+    "Platform Develoment",
     "Templates",
     "Remote-Wiki/Aspects",
     "Remote-Wiki/Ressources/PNJ",
@@ -209,17 +212,7 @@
     "Remote-Wiki/templates",
     "Remote-Wiki/Compétences",
     "Remote-Wiki/Domaines_Techniques",
-    "Remote-Wiki/Domaines_Magiques",
-    "Remote-Wiki/Domaines_Martiaux",
-    "Remote-Wiki/attachments/vercel-project-id.png",
     "Remote-Wiki/attachments/vercel-create-token.png",
-    "Remote-Wiki/attachments/vercel-account-id.png",
-    "Remote-Wiki/attachments/publish-dir-yml.png",
-    "Remote-Wiki/attachments/how-linked-blog-starter-works.png",
-    "Remote-Wiki/attachments/github-secrets-vercel.png",
-    "Remote-Wiki/attachments/fork-linked-blog-starter-md.png",
-    "Remote-Wiki/attachments/fn-website-demo.gif",
-    "Remote-Wiki/attachments/enable-actions-github.png",
-    "Remote-Wiki/attachments/disconnect-repo-vercel.png"
+    "Remote-Wiki/attachments/how-linked-blog-starter-works.png"
   ]
 }

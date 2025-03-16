@@ -1,0 +1,1 @@
+Il y aura ici un tableau complet des compétences !

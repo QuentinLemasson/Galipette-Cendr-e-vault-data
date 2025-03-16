@@ -1,0 +1,5 @@
+- Forestier
+- Désertique
+- Montagneux
+- Enneigé
+- Aquatique
