@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0b226a79dd5b0afd",
+        "id": "69ad5f86d4bce1c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5c046ab35c4147ed",
+            "id": "aef1ef026de6619f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "split-diff-view",
               "state": {
-                "staged": false,
-                "file": "Personnage/Sauvegardes.md"
+                "aFile": ".obsidian/plugins/obsidian-git/styles.css",
+                "bFile": ".obsidian/plugins/obsidian-git/styles.css",
+                "aRef": ""
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Sauvegardes)"
+              "icon": "diff",
+              "title": "Diff: styles.css"
             }
           }
         ]
@@ -143,8 +144,19 @@
               "icon": "lucide-list",
               "title": "Plan de Enduit Elémentaire"
             }
+          },
+          {
+            "id": "59db340512ca50ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -152,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -164,7 +177,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "168182b9ba474527",
+  "active": "aef1ef026de6619f",
   "lastOpenFiles": [
     "Remote-Wiki/Personnage/Sauvegardes.md",
     "Remote-Wiki/Personnage/Attributs.md",
